@@ -12,3 +12,6 @@ Informatica (CWI) in the Netherlands as a successor to the
 ABC programming language, which was inspired by SETL, capable
 of exception handling and interfacing with the Amoeba operating 
 system. Its implementation began in December 1989.
+
+# mycode
+
